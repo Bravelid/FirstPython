@@ -1,4 +1,5 @@
 """
 Test first python
 """
-print("test1")
+print("Only")
+print("Hello World!")
